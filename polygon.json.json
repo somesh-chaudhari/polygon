@@ -1,0 +1,152 @@
+{
+    "id": "polygon",
+    "description": "Description of Polygon.",
+    "tags": [
+        "pos",
+        "smart contracts",
+        "polygon ecosystem",
+        "layer 2",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "Max Supply of Polygon"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/docs/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork/"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community",
+        "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+    },
+    "data_aggregator": [
+        {
+            "name": "Data Aggregator Name",
+            "url": "Data Aggregator URL"
+        },
+        {
+            "name": "Data Aggregator Name",
+            "url": "Data Aggregator URL"
+        },
+        {
+            "name": "Data Aggregator Name",
+            "url": "Data Aggregator URL"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Explorer Name",
+            "url": "Explorer URL"
+        },
+        {
+            "name": "Explorer Name",
+            "url": "Explorer URL"
+        },
+        {
+            "name": "Explorer Name",
+            "url": "Explorer URL"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Bridge Name",
+            "url": "Bridge URL"
+        },
+        {
+            "name": "Bridge Name",
+            "url": "Bridge URL"
+        },
+        {
+            "name": "Bridge Name",
+            "url": "Bridge URL"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bounty Program Name",
+            "url": "Bounty Program URL"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Grants Program Name",
+            "url": "Grants Program URL"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Faucet Name",
+            "url": "Faucet URL"
+        },
+        {
+            "name": "Faucet Name",
+            "url": "Faucet URL"
+        },
+        {
+            "name": "Faucet Name",
+            "url": "Faucet URL"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "RPC Name",
+            "url": "RPC URL"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Name",
+            "url": "Wallet URL"
+        },
+        {
+            "name": "Wallet Name",
+            "url": "Wallet URL"
+        },
+        {
+            "name": "Wallet Name",
+            "url": "Wallet URL"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Oracle Name",
+            "url": "Oracle URL"
+        },
+        {
+            "name": "Oracle Name",
+            "url": "Oracle URL"
+        },
+        {
+            "name": "Oracle Name",
+            "url": "Oracle URL"
+        }
+    ]
+}
